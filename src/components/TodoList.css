@@ -1,0 +1,14 @@
+.TodoList {
+    background-color: #cad;
+    color: #ddd;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+	padding: 10px 20px;
+	list-style: none;
+	border: 5px dashed #acd;
+	line-height: 36px;
+	font-size: 22px;
+	width: 30%;
+	min-width: 200px;
+}
